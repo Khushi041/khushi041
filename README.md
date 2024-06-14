@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NEXTJS**
 
-- 👨‍💻 All of my projects are available at https://portfolio-psmy.vercel.app/
+- 👨‍💻 All of my projects are available at https://portfolio-u4xc.vercel.app/
 
 - 📝 I regularly write articles on [https://hashnode.com/@khushi04](https://hashnode.com/@khushi04)
 
